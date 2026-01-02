@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Tapiwanashe Emmanuel Matare 👋
 
-<!--
-**tapiwanashematare/tapiwanashematare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS in Business Analytics (George Washington University)  
+Focused on building **accurate, explainable, and reliable AI & analytics solutions** for real-world decision-making.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Interested In
+- **Agentic AI & RAG** for high-stakes domains (finance, risk, operations)
+- **Predictive modeling & evaluation** (metrics, ground truth, error analysis)
+- **Analytics + business strategy** (turning insights into outcomes)
+- **Responsible & explainable AI**
+
+---
+
+## Featured Projects
+### 🔹 Growbe — AI Financial Advisory Agent
+- Collaborated on building an agentic system combining **LLM reasoning + deterministic Python/SQL tools**
+- Reduced hallucinations and improved accuracy vs baseline LLMs
+- Tech: `Python` `SQL` `FastAPI` `RAG` `Vector DB` `Evaluation`
+
+### 🔹 Titanic: Machine Learning from Disaster
+- End-to-end ML workflow: data cleaning, feature engineering, modeling, evaluation
+- Focused on interpretability and performance tradeoffs
+
+---
+
+## Skills & Tools
+**Languages & Platforms**  
+`Python` `SQL` `R` `FastAPI` `Git`
+
+**Analytics & ML**  
+`Regression` `Classification` `Model Evaluation` `Feature Engineering` `A/B Testing`
+
+**GenAI**  
+`RAG` `Vector Search` `Agent Orchestration` `Prompt Engineering`
+
+---
+
+## Connect
+🔗 LinkedIn: https://www.linkedin.com/in/tapiwanashe-matare
