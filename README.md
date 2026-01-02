@@ -25,7 +25,7 @@ I am a financial services and data analytics professional with experience across
 
 ## Featured Projects
 
-- **[Growbe — AI Financial Advisory Agent](https://github.com/tapiwanashematare/Growbe-AI)**  
+- **[Growbe — AI Financial Advisory Agent](https://github.com/PrajwalKusha/Growbe-AI)**  
   Collaborated on building an agentic system combining **LLM reasoning + deterministic Python/SQL tools** to deliver accurate, explainable financial guidance.  
   Designed to reduce hallucinations and improve reliability in high-stakes financial decision-making.  
   **Tech:** `Python` `SQL` `FastAPI` `RAG` `Vector DB` `Evaluation`
