@@ -1,7 +1,7 @@
 # Hi, I'm Tapiwanashe Emmanuel Matare 👋  
 *(Feel free to call me Emmanuel)*
 
-MS in Business Analytics (George Washington University)  
+MS in Business Analytics (The George Washington University)  
 Focused on building **accurate, explainable, and reliable AI & analytics solutions** for real-world decision-making.
 
 ---
@@ -46,6 +46,9 @@ I am a financial services and data analytics professional with experience across
 
 **GenAI & Modern AI Systems**  
 `RAG` `Vector Search` `Agent Orchestration` `Prompt Engineering`
+
+**Data Visualization & Storytelling**  
+`Power BI` `Tableau` `Matplotlib` `Seaborn` `ggplot2`
 
 ---
 
